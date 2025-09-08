@@ -45,7 +45,7 @@ python scripts/train_model.py --epochs 10 --batch_size 32 --lr 0.0001
 To generate text using a trained model:
 
 ```bash
-python scripts/generate_text.py --model_path best_model.pth --prompt "The future of AI" --max_length 200
+python scripts/generate_text.py --model_path best_model.pth --prompt "The history of" --max_length 200
 ```
 
 ## Project Structure
