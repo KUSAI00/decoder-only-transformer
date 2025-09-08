@@ -16,11 +16,6 @@ A PyTorch implementation of a decoder-only transformer for language modeling, tr
 git clone https://github.com/KUSAI00/decoder_only_transformer.git
 cd decoder-only-transformer
 
-# Transformer Language Model Project
-
-## Installation
-
-```bash
 pip install -r requirements.txt
 ```
 
